@@ -2,7 +2,7 @@
 
 void main() {
 /*
-* double is used for floating point numbers
+* long double is used for floating point numbers
 * it has very big number of range for storing data
 */
 // variable declaration
